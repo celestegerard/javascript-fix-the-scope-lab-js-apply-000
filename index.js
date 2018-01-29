@@ -13,7 +13,7 @@ const two = 2
 
 function add2(n) {
   return n + two
-
+}
 
 var funkyFunction = function() {
   return function() {
